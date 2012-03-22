@@ -1,0 +1,13 @@
+# fexjr
+
+http://en.wikipedia.org/wiki/Fexpr
+
+## Usage
+
+It's not quite what it is supposed to be just yet.  See tests for documentation.
+
+## License
+
+Copyright (C) 2012 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
